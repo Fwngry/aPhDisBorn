@@ -63,8 +63,8 @@ Table of Contents
 
 
 
-
 ## 高考模式
+
 1. [高考地狱模式是哪个省？](https://mp.weixin.qq.com/s/gAKif2RKjs4sqJSYkGIkcA)  2021.06.25. 
 
 
@@ -73,6 +73,7 @@ Table of Contents
 
 
 ## 一个执着的决定
+
 1. [我为什么读博， 以及我为什么不读博？这是个问题！](https://mp.weixin.qq.com/s/aI6aXi1ujInRmFqCWV3NVA)  2020.12.31. 
 
 
@@ -91,7 +92,7 @@ Table of Contents
 6. [做导师的第一届博士好不好？](https://www.zhihu.com/question/339449769/answer/1419213630?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632) 
 
 
-7. [本硕双非决战985博士，一战失败，二战成名！](https://mp.weixin.qq.com/s/SvQysj1ilCqheXzswlGnhg)  2020.08.13. 
+7. [本硕双非决战985博士，一战失败，二战成名！](https://mp.weixin.qq.com/s/SvQysj1ilCqheXzswlGnhg)  2020.08.13. ✅
 
 
 8. [一位疫情期间上岸博士的经验分享](https://mp.weixin.qq.com/s/X3Kx36XtObJsJmvMyFsp0A). 2020.08.06. 
@@ -1482,5 +1483,4 @@ https://mp.weixin.qq.com/s/Wudbbos96DhNowlml4KKbQ). 2021.06.01.
 
 
 updated in 2021.06.30
-
 
